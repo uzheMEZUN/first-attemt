@@ -85,4 +85,4 @@ button_equal = tk.Button(master=frame, text="=", padx=15,
                          pady=5, width=9, command=equal)
 button_equal.grid(row=7, column=0, columnspan=3, pady=2)
  
-window.mainloop()
+window.mainloo)
