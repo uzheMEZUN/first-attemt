@@ -5,6 +5,12 @@ import tkinter as tk
 import tkinter.messagebox
 from tkinter.constants import SUNKEN
  
+ 
+my 
+name
+is 
+alikhan
+
 window = tk.Tk()
 window.title('Calculator-GeeksForGeeks')
 frame = tk.Frame(master=window, bg="skyblue", padx=10)
